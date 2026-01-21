@@ -1,4 +1,4 @@
-# DownGD 2.0 🚀
+# Git Folder Downloader 🚀
 
 A powerful, pixel-perfect, single-page web application to download files or folders from GitHub repositories. It supports public URLs, private repositories (via Token), and requires **no server**.
 
@@ -38,7 +38,7 @@ When the user visits this link, the app will:
 
 1. Generate a GitHub Token (Settings > Developer Settings > Personal Access Tokens).
 2. Scopes needed: `repo` (for private) or just public access.
-3. Open DownGD 2.0 > Click Gear Icon (⚙️).
+3. Open Git Folder Downloader > Click Gear Icon (⚙️).
 4. Paste token. It is saved in your browser's LocalStorage and never sent to any 3rd party server.
 
 ---
